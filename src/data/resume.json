@@ -1,0 +1,138 @@
+{
+  "meta": {
+    "name": "Resume",
+    "description": "This is my resume, structurally somewhat (but not fully) based on the JSON Resume schema (https://jsonresume.org)"
+  },
+  "basics": {
+    "name": "Inese Avota",
+    "email": "inese.avota@gmail.com",
+    "phone": "+49 176 30538856",
+    "subtitle": "Software Engineer",
+    "summary": "Software Engineer with experience in delivering value across the full software development life cycle. Recognises the importance of clean, maintainable and testable code, and strives to keep up-to-date with emerging technologies and industry trends. Approachable and enthusiastic individual with a team-building attitude and a sense of urgency and ownership of the product.",
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "",
+        "url": "https://www.linkedin.com/in/inese-avota/"
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "https://github.com/inesea"
+      }
+    ]
+  },
+  "work": [
+    {
+      "page": 1,
+      "name": "Ada Health",
+      "location": "Berlin, Germany",
+      "subSections": [
+        {
+          "position": "Software Engineer",
+          "startDate": "April 2021",
+          "endDate": "Present",
+          "highlights": [
+            "As a member of the core internal tools team developing and maintaining a suite of medical content management applications with focus on containerising and modernising frontend and backend apps, and migration to cloud",
+            "Tech stack includes Docker, GCP, Kubernetes, Helm, Istio, Jenkins, JavaScript, TypeScript, React, Material UI, Node.js, WebSockets, MongoDB, PostgreSQL, Java, Kotlin, Python, Bash"
+          ]
+        },
+        {
+          "position": "Frontend Engineer",
+          "startDate": "October 2019",
+          "endDate": "March 2021",
+          "highlights": [
+            "Building a Text Annotation Tool from ground up, an interface for AI powered services that enable the process of medical knowledge acquisition and curation",
+            "Project is part of the QURATOR initiative (https://www.linkedin.com/showcase/qurator-ai)",
+            "Taking sole ownership of Frontend development including CI pipelines, deployments, monitoring",
+            "Tech stack includes React, Redux, redux-saga, styled-components, Jest, TestCafe, Node.js, Jenkins, Travis CI, Docker, Kubernetes, GCP, Sentry, FullStory",
+            "Working closely with Product Designers and Backend, NLP and ML engineers"
+          ]
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "name": "Lloyds Banking Group",
+      "location": "Edinburgh, UK",
+      "position": "Software Engineer",
+      "startDate": "February 2019",
+      "endDate": "September 2019",
+      "highlights": [
+        "Greenfield project, designing and building life insurance sales applications",
+        "Creating UI with React, Redux, TypeScript, Sass, Jest",
+        "Developing backend microservices and RESTful APIs with Node.js, Express",
+        "Containerising and instrumenting apps using Docker, Docker Compose, Makefiles",
+        "Working within Azure DevOps environment",
+        "Contributing to establishing development standards within the team",
+        "Helping organise Agile and Scrum processes within the team",
+        "Pair-programming, XP practices"
+      ]
+    },
+    {
+      "page": 1,
+      "name": "NCR Corporation",
+      "location": "Edinburgh, UK",
+      "position": "Software Engineer",
+      "startDate": "September 2017",
+      "endDate": "January 2019",
+      "highlights": [
+        "Production incident investigation and bug fixing for marketing services within online banking applications",
+        "Enhancing backend solutions in Java (Spring, Maven) and Scala (functional paradigm)",
+        "Developing new frontend features and components with React, Redux, CSS in JS and testing with Mocha, Chai, Sinon, Enzyme",
+        "Automated E2E testing with TestCafe, cross-browser testing with Sauce Labs, and some exposure to performance testing with JMeter",
+        "Training Tier 1 Support team in application usage, Splunk log analysis and troubleshooting",
+        "Participating in Scrum activities, hackathons, guilds, creating tech culture"
+      ]
+    },
+    {
+      "page": 1,
+      "name": "Petrotechnics (now Sphera)",
+      "location": "Aberdeen, UK",
+      "position": "Software Engineer",
+      "startDate": "January 2015",
+      "endDate": "September 2017",
+      "highlights": [
+        "Developing and maintaining risk management software in Java (Java 8, Struts 2), Groovy, JavaScript (Ext JS), HTML5, CSS3",
+        "Oracle database design and development",
+        "Strong focus on applying OO principles and design patterns",
+        "Taking part in requirements engineering, working closely with POs, Business Analysts and UX designers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Robert Gordon University",
+      "location": "Aberdeen, UK",
+      "area": "Software Technology",
+      "studyType": "MSc",
+      "startDate": "2013",
+      "endDate": "2014"
+    },
+    {
+      "institution": "University of Latvia",
+      "location": "Riga, Latvia",
+      "area": "Optometry",
+      "studyType": "BSc",
+      "startDate": "2008",
+      "endDate": "2011"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "fluency": "fluent"
+    },
+    {
+      "name": "German",
+      "fluency": "work in progress"
+    },
+    {
+      "name": "Latvian",
+      "fluency": "native"
+    }
+  ],
+  "skills1": ["JavaScript", "React", "Redux", "Node.js", "TypeScript", "Docker", "Kubernetes", "Git", "Jenkins", "PostgreSQL"],
+  "skills2": ["Material UI", "Google Cloud Platform", "Linux", "MongoDB" ],
+  "skills3": ["Java", "Kotlin", "Bash"]
+}
